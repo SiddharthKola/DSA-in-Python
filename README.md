@@ -1,7 +1,7 @@
 # 📘 Data Structures and Algorithms (DSA) in Python
 
 Welcome to my **DSA Practice Repository** 🚀  
-This repo contains Python implementations of common **algorithms** and **data structures**, with clean code, examples, and explanations.  
+This repo contains Python implementations of common **algorithms** and **data structures**, with clean code, examples, and explainations.  
 Perfect for **interview prep** and **competitive programming** 💡
 
 ---
